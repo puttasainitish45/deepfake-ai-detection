@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+opencv-python-headless
+librosa
+reportlab
+matplotlib
+seaborn
+numpy
+Pillow
+pandas
