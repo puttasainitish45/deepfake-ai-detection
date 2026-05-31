@@ -192,13 +192,6 @@ Contributions are welcome! Feel free to:
 - 🔧 Submit pull requests
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Putta Sai Nitish**
@@ -208,7 +201,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <div align="center">
-
-⭐ **If you found this helpful, please star the repository!** ⭐
 
 </div>
